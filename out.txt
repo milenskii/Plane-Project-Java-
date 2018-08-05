@@ -1,0 +1,24 @@
+-----------------------------------
+             Plane                
+-----------------------------------
+ID:123
+Manufacturer:Planee
+Model:planeID
+Number of seats:100
+Min length of landing:2
+Average speed:500
+Staff Costs:200
+Fuel:100
+Fuel capacity:200
+-----------------------------------
+             Plane                
+-----------------------------------
+ID:3222
+Manufacturer:bulgariaAir
+Model:somemodel
+Number of seats:70
+Min length of landing:5
+Average speed:600
+Staff Costs:300
+Fuel:200
+Fuel capacity:1000
